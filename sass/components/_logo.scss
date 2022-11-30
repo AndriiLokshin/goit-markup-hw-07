@@ -1,0 +1,21 @@
+/* --------Logo------- */
+a.logo {
+   display: block;
+   margin-left: 0px;
+   color: #000000;
+
+   font-family: 'Raleway', sans-serif;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 1.2;
+   letter-spacing: 0.03em;
+   text-decoration: none;
+}
+
+.page-footer .logo {
+   color: var(--white-color);
+}
+
+.logo .first-part {
+   color: var(--accent-color);
+}
